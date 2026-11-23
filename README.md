@@ -55,9 +55,10 @@
 - GitHub: [RafaelPozoyan](https://github.com/RafaelPozoyan)
 
 
-### 📊 GitHub Stats
+### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelPozoyan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPozoyan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
+
 
