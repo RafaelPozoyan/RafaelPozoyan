@@ -53,3 +53,11 @@
 - Email: [rafael5459563@yandex.ru](mailto:rafael5459563@yandex.ru)
 - Telegram: [@rafaelpozoyan](https://t.me/rafaelpozoyan)
 - GitHub: [RafaelPozoyan](https://github.com/RafaelPozoyan)
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelPozoyan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+</p>
+
