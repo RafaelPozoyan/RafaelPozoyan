@@ -31,11 +31,11 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
 </p>
 
-**ML fields:**
-- Classical ML: Classification, Regression, Uplift Modeling, Pricing, Matching, Ranking, Search.
-- Recommendation Systems: Candidate Generation, Ranking, ALS.
-- NLP / LLM: Text Classification, Phrase Matching, Transformers, Fine-tuning, LoRA, Prompt Engineering.
-- Other: Clustering, Metric Learning, Time Series, Model Optimization.
+### ML fields:
+- **Classical ML**: Classification, Regression, Uplift Modeling, Pricing, Matching, Ranking, Search.
+- **Recommendation Systems**: Candidate Generation, Ranking, ALS.
+- **NLP / LLM**: Text Classification, Phrase Matching, Transformers, Fine-tuning, LoRA, Prompt Engineering.
+- **Other**: Clustering, Metric Learning, Time Series, Model Optimization.
 
 ### 👨‍🎓 Education
 
